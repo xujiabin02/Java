@@ -12,6 +12,7 @@ public class p {
         System.out.println(ps.getProperty("os.name"));
         System.out.println(ps.getProperty("pidfile"));
         System.out.println(ps.getProperty("mode"));
+        System.out.println(ps.getProperty("mode"));
         File Pfile = new File("F:\\Java practice\\dd.txt");
         System.out.println(Pfile.getParentFile());
     }
