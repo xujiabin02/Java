@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Overloading">
+    <output-path>$PROJECT_DIR$/out/artifacts/Overloading</output-path>
+    <root id="archive" name="Overloading.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/Overloading/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/arrayTest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/chengTest$1cheng.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/chengTest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/Employee.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/Filedtest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/forTest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/Hello.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/IOtest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/Overloading.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/PerfectNumber.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/PerfectTest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/SimpleDate.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/st.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/StringTest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/t.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/Tree.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/v.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/wan.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/whileTest.class" />
+      <element id="file-copy" path="$PROJECT_DIR$/out/production/Java practice/webPageResource.class" />
+    </root>
+  </artifact>
+</component>

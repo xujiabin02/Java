@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="1.7" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/work/hadoop-2.5.1/common" />
+          <root url="file://E:/work/hadoop-2.5.1/common/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/work/hadoop-2.5.1/common/lib" />
+        </SOURCES>
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/common" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/common/lib" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/common/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/work/hadoop-2.5.1/hdfs" />
+          <root url="file://E:/work/hadoop-2.5.1/hdfs/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/work/hadoop-2.5.1/hdfs/lib" />
+        </SOURCES>
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/hdfs" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/hdfs/lib" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/hdfs/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/work/hadoop-2.5.1/httpfs" />
+          <root url="file://E:/work/hadoop-2.5.1/httpfs/tomcat/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/httpfs/tomcat/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/work/hadoop-2.5.1/mapreduce" />
+          <root url="file://E:/work/hadoop-2.5.1/mapreduce/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/mapreduce" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/mapreduce/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://E:/work/hadoop-2.5.1/yarn" />
+          <root url="file://E:/work/hadoop-2.5.1/yarn/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://E:/work/hadoop-2.5.1/yarn/lib" />
+        </SOURCES>
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/yarn" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/yarn/lib" recursive="false" />
+        <jarDirectory url="file://E:/work/hadoop-2.5.1/yarn/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
